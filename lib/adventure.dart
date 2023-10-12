@@ -12,9 +12,9 @@ class Adventure extends FlameGame {
   @override
   FutureOr<void> onLoad() {
     cam = CameraComponent.withFixedResolution(
-        width: 360, height: 640, world: world);
+        width: 640, height: 360, world: world);
 
-    cam.viewfinder.anchor = Anchor.centerLeft;
+    cam.viewfinder.anchor = Anchor.topLeft;
 
     addAll([cam, world]);
     return super.onLoad();

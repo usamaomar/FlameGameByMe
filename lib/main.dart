@@ -19,7 +19,7 @@ class MyCrate extends SpriteComponent {
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   Flame.device.fullScreen;
-  Flame.device.setPortrait();
+  Flame.device.setLandscape();
 
   Adventure game = Adventure();
 

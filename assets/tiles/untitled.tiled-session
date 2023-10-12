@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "beastlands.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.4077083333333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 480.7358201328564,
+                "y": 320.08175779253963
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/User/StudioProjects/flame_game/assets/images/Terrain",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "beastlands.tsx",
+        "untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "beastlands.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
